@@ -1,0 +1,88 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.entrada {
+    background-color: rgb(243, 227, 245);
+    
+}
+
+.menu{
+    box-shadow: 2px 5px 2px rgb(166, 122, 187);
+}
+
+.menu ul  {
+    background-color: rebeccapurple;
+    color: white;
+    display: flex;
+    list-style-type:none;
+}  
+
+a{
+    padding: 20px;
+    cursor: pointer;
+
+        
+}
+.menu li:hover{
+    padding: 20px;
+    background-color: rgb(179, 107, 189);
+    border-radius: 5px 5px 5px 5px;
+}
+
+
+li {
+    color:white;
+    padding: 15px;
+    font-family: calibri;
+    line-height: 30px;
+    
+
+    
+    
+
+}
+.titulo {
+    font-size: 250%;
+    text-align: center;
+    margin-top: 20px;
+}
+h4{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(228, 153, 24);
+    margin-top: 10px;
+       
+}
+nav ul{
+    float: inline-start;
+}
+p{
+    color: blueviolet; 
+    margin: 150px;
+    margin-top: 30px;
+}
+
+.botonera{
+    text-align: center;
+}
+.boton{
+    padding: 10px;
+    color: white;
+    background-color: rgb(112, 72, 153);
+    border-radius: 30px 30px  ;
+    box-shadow: 2px 2px 2px rgb(195, 101, 209);
+ 
+}
+.boton:hover{
+    background-color: rgb(167, 129, 203);
+    cursor: pointer;
+    
+}
+img{
+    height: 70px;
+
+}
+
+
